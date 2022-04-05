@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MindTreeDemoWebApp215'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E42E96D3939460D8B16968D3C5AA326 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09BDC637A5E743D9979A9EBAF4A23A88 }}
